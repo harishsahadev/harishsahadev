@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 - 🌱 Student @IIT Madras BSc. Degree Program - Programming and Data Science.
