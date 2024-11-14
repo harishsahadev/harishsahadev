@@ -371,7 +371,7 @@
 </br>
 
 
-<h1>Let's Connect <img align="right" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45"> </h1>
+<h1>Let's Connect <img align="right" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="40"> </h1>
 <p align="center">
 	<a href="mailto:harishsahadev@gmail.com"><img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/harishsahadev/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn"/></a>
