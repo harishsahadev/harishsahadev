@@ -37,7 +37,7 @@
   </br>
   <h3>Languages</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+    src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" 
     title="Python"
     width="60px"
     alt="Python">
@@ -55,7 +55,7 @@
     alt="Dart">
     &nbsp;&nbsp;&nbsp;&nbsp;  
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78"
     title="C"
     width="60px"
     alt="C">
@@ -68,25 +68,25 @@
     &nbsp;&nbsp;&nbsp;&nbsp;  
 
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
     title="Javascript"
     width="60px"
     alt="Javascript">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9"
     title="HTML5"
     width="60px"
     alt="HTML5">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb"
     title="CSS"
     width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg"
+    src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif"
     title="Android"
     width="60px"
     alt="Android">
@@ -114,7 +114,7 @@
     alt="Flutter">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+    src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"
     title="React"
     width="60px"
     alt="React">
@@ -133,7 +133,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
+    src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif"
     title="VueJS"
     width="60px"
     alt="VueJS">
@@ -179,7 +179,7 @@
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36"
     title="Firebase"
     width="60px"
     alt="Firebase">
@@ -197,7 +197,7 @@
     alt="CockroachDB">
     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68"
     title="MongoDB"
     width="60px"
     alt="MongoDB">
@@ -243,7 +243,7 @@
     alt="Docker">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
+    src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
     title="Git"
     width="60px"
     alt="Git">
@@ -308,7 +308,7 @@
     alt="MATLAB">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
     title="GitHub"
     width="60px"
     alt="GitHub">
@@ -371,16 +371,18 @@
 </br>
 
 
-<h1>Let's Connect <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1>Let's Connect <img align="right" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45"> </h1>
 <p align="center">
 	<a href="mailto:harishsahadev@gmail.com"><img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/harishsahadev/" target="_blank"><img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/harish.sahadev.1" target="_blank"><img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="Facebook"/></a> 
+	<a href="https://www.linkedin.com/in/harishsahadev/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn"/></a>
+	<a href="https://harishsahadev.github.io/Portfolio_site/" target="_blank"><img src="https://img.icons8.com/?size=100&id=68247&format=png&color=000000" alt="Website"/></a>
+	<a href="https://discord.com/channels/322122153451323392" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Discord"/></a>
+  	<a href="https://www.facebook.com/harish.sahadev.1" target="_blank"><img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="Facebook"/></a> 
 	<a href="https://instagram.com/harishsahadev" target="_blank"><img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" alt="Instagram"/></a> 
-  <a href="https://harishsahadev.github.io/Portfolio_site/" target="_blank"><img src="https://img.icons8.com/?size=100&id=68247&format=png&color=000000" alt="Website"/></a>
- <a href="https://x.com/harishsahadev" target="_blank"><img src="https://img.icons8.com/?size=100&id=6BmXkftCQhH8&format=png&color=000000" alt="Twitter"/></a>
+ 	<a href="https://x.com/harishsahadev" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100" alt="Twitter"/></a>	
  <!-- 	<a href="https://github.com/harishsahadev" target="_blank"><img src="https://img.icons8.com/?size=100&id=sbhfmWq4KRr1&format=png&color=000000" alt="GitHub"/></a> -->
  <!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/?size=100&id=XnsQJWiCOaJw&format=png&color=000000" alt="Youtube"/></a> -->
+</p>
 	
 
 <p align= "center"> 
