@@ -5,7 +5,7 @@
   alt="header"/>
 </div>
 <p align="center">
-  <a href="https://github.com/harishsahadev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+I+am+Harish+Sahadev+M;Passionate++Developer+from+India;Web+Dev;App+Dev;Data+Science;Machine+Learning;+%3C3"></a>
+  <a href="https://github.com/harishsahadev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+I+am+Harish+Sahadev;Passionate++Developer+from+India;Web+Dev;App+Dev;Data+Science;Machine+Learning;+%3C3"></a>
 </p>
 
 <!-- About Me -->
@@ -13,7 +13,7 @@
   <h1>About Me <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></h1>
 
   <p>Hi, my name is Harish Sahadev M, a dedicated <strong>web and mobile developer</strong> with a passion for building scalable, user-friendly applications. I specialize in both <strong>front-end and back-end development</strong>, with expertise in AI and Machine Learning. Leveraging tools like <strong>Python, Java, Flutter, Vue, Flask, React</strong>, etc. I craft efficient, innovative solutions tailored to diverse needs.</p>
-  <p>I enjoy designing efficient systems, solving complex problems, and creating seamless user experiences. Outside of work, I’m always exploring new tech and taking on exciting challenges. When I’m not coding, I love going on road trips and exploring new places.</p>
+  <p>I enjoy designing efficient systems, solving complex problems, and creating seamless user experiences.</p>
   
 </div>
 </p>
