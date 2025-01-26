@@ -37,73 +37,62 @@
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
+  <p align="left">
   <img
     src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" 
     title="Python"
     width="60px"
     alt="Python">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     title="Java"
     width="60px"
     alt="Java">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
     title="Dart"
     width="60px"
     alt="Dart">
-    &nbsp;&nbsp;&nbsp;&nbsp;  
   <img
     src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78"
     title="C"
     width="60px"
     alt="C">
-    &nbsp;&nbsp;&nbsp;&nbsp;  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     title="Typescript"
     width="60px"
     alt="Typescript">
-    &nbsp;&nbsp;&nbsp;&nbsp;  
-
   <img
     src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
     title="Javascript"
     width="60px"
     alt="Javascript">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9"
     title="HTML5"
     width="60px"
     alt="HTML5">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb"
     title="CSS"
     width="60px"
     alt="css3">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif"
     title="Android"
     width="60px"
     alt="Android">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
     title="Bash"
     width="60px"
     alt="Bash">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
     title="SQL"
     width="60px"
     alt="SQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Frameworks -->
   </br>
@@ -113,56 +102,46 @@
     title="Flutter"
     width="60px"
     alt="Flutter">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"
     title="React"
     width="60px"
     alt="React">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"
     title="Gradle"
     width="60px"
     alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
     title="Flask"
     width="60px"
     alt="Flask">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img
     src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif"
     title="VueJS"
     width="60px"
     alt="VueJS">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg"
     title="Vuetify"
     width="60px"
     alt="Vuetify">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
     title="Bootstap"
     width="60px"
     alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
     title="Django"
     width="60px"
     alt="Django">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
     title="NodeJS"
     width="60px"
     alt="NodeJS">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
   </br>
@@ -178,19 +157,16 @@
     title="PostgreSQL"
     width="60px"
     alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36"
     title="Firebase"
     width="60px"
     alt="Firebase">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"
     title="SQLite"
     width="60px"
     alt="SQLite">
-    &nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
     title="CockroachDB"
@@ -202,13 +178,11 @@
     title="MongoDB"
     width="60px"
     alt="MongoDB">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
     title="Redis"
     width="60px"
     alt="Redis">
-    &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Cloud Platforms -->
   </br>
@@ -218,19 +192,19 @@
     title="Google Cloud Platform (GCP)"
     width="60px"
     alt="Google Cloud Platform (GCP)">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
     title="Amazon AWS"
     width="60px"
     alt="AWS">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
     title="Microsoft Azure"
     width="60px"
     alt="Azure">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
 
 
   
@@ -242,19 +216,19 @@
     title="Docker"
     width="60px"
     alt="Docker">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
     title="Git"
     width="60px"
     alt="Git">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
     title="Linux"
     width="60px"
     alt="Linux">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
 
 
   <!-- Data Science & Machine Learning-->
@@ -265,25 +239,25 @@
     title="Pandas"
     width="60px"
     alt="Pandas">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
     title="Scikit-learn"
     width="60px"
     alt="Scikit-learn">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
     title="Numpy"
     width="60px"
     alt="Numpy">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
     title="Jupyter Notebook"
     width="60px"
     alt="Jupyter Notebook">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   
 
   
@@ -295,63 +269,60 @@
     title="Figma"
     width="60px"
     alt="Figma">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
     title="Postman"
     width="60px"
     alt="Postman">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
     title="MATLAB"
     width="60px"
     alt="MATLAB">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
     title="GitHub"
     width="60px"
     alt="GitHub">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
     title="Canva"
     width="60px"
     alt="Canva">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
-
-  
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
     title="Jira"
     width="60px"
     alt="Jira">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
     title="Latex"
     width="60px"
     alt="Latex">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"
     title="Markdown"
     width="60px"
     alt="Markdown">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
     title="Android Studio"
     width="60px"
     alt="Android Studio">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
     width="60px"
     alt="VS Code">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp; -->
 
   <img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 </div>
