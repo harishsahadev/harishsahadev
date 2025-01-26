@@ -350,9 +350,9 @@
 	<a href="https://www.linkedin.com/in/harishsahadev/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn"/></a>
 	<a href="https://harishsahadev.github.io/Portfolio_site/" target="_blank"><img src="https://img.icons8.com/?size=100&id=68247&format=png&color=000000" alt="Website"/></a>
 	<a href="https://discord.com/channels/322122153451323392" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Discord"/></a>
-  	<a href="https://www.facebook.com/harish.sahadev.1" target="_blank"><img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="Facebook"/></a> 
-	<a href="https://instagram.com/harishsahadev" target="_blank"><img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" alt="Instagram"/></a> 
- 	<a href="https://x.com/harishsahadev" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100" alt="Twitter"/></a>	
+<!--   	<a href="https://www.facebook.com/harish.sahadev.1" target="_blank"><img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="Facebook"/></a>  -->
+<!-- 	<a href="https://instagram.com/harishsahadev" target="_blank"><img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" alt="Instagram"/></a>  -->
+ 	<a href="https://x.com/harishsahadev" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100" alt="Twitter"/></a>
  <!-- 	<a href="https://github.com/harishsahadev" target="_blank"><img src="https://img.icons8.com/?size=100&id=sbhfmWq4KRr1&format=png&color=000000" alt="GitHub"/></a> -->
  <!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/?size=100&id=XnsQJWiCOaJw&format=png&color=000000" alt="Youtube"/></a> -->
 </p>
